@@ -10,8 +10,8 @@ const About = () => {
       <Title>About me</Title>
       <div className="mt-7 laptop:mt-10">
         <p className="text-body-1 about-description font-IBM">
-          I’m a full-stack developper looking for a new role in an exciting
-          company. I’m based in Montreal, Canada,
+          Hi, My name is Hermann Kanga, I’m a full-stack developper looking for a new role in an exciting
+          company. I’m based in Montreal,
           but I’m happy working remotely and have experience in remote teams.
           When I’m not coding, you’ll find me outdoors. I love being out in
           nature whether that’s going for a walk, run or cycling. I’d love you

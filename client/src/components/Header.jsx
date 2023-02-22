@@ -25,6 +25,12 @@ const Header = () => {
               Contact me
             </li>
           </Link>
+
+          <Link to="/lab">
+            <li className="text-body-3 hover:text-00aecb cursor-pointer hover:underline">
+              Contact me
+            </li>
+          </Link>
         </ul>
       </nav>
 
