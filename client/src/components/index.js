@@ -19,10 +19,12 @@ import Node from "../components/icons/Node";
 import ReactIcon from "../components/icons/ReactIcon";
 import Pg from "../components/icons/Pg";
 import Devjobs from "./Devjobs";
+import LabCard from "./LabCard";
 export {
   About,
   Express,
   Devjobs,
+  LabCard,
   Invoice,
   Node,
   Pg,

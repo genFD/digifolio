@@ -1,10 +1,10 @@
-import { ContactForm, Footernav, Title } from "../components";
+import { ContactForm, Footernav, Header, Title } from "../components";
 function Contact({ children }) {
   return (
     <>
       <section
         id="about"
-        className="about-me mt-20 px-8 tablet:px-10 laptop:px-48 laptop:-mt-20 min-w-[470px]"
+        className="about-me mt-20 px-8 tablet:px-10 laptop:px-48 laptop:mt-20 min-w-[470px]"
       >
         <Title>Get in touch</Title>
         <div className="mt-7 laptop:mt-10">

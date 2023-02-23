@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 
-const deletedLogo = () => {
+const DeletedLogo = () => {
   return (
     <div className="-z-10">
       <svg
@@ -2526,7 +2526,7 @@ const deletedLogo = () => {
         </g>
       </svg>
     </div>
-  )
-}
+  );
+};
 
-export default deletedLogo
+export default DeletedLogo;

@@ -1,9 +1,9 @@
-import { About, Divider, MainFooter, Hero } from "../components";
+import { About, Divider, MainFooter, Hero, Header } from "../components";
 function Home() {
   return (
     <div>
       <div className="mt-6">
-        <Hero />
+        {/* <Hero /> */}
         <Divider />
       </div>
       <div className="mt-6">
